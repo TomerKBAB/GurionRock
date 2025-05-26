@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GurionRock Pro Max Ultra Over 9000 Vacuum Robot Perception & Mapping Simulation
 
 A Java-based microservices framework and robotics simulation for processing sensor data (camera, LiDAR, IMU/GPS) and building a global map via Fusion-SLAM.
@@ -134,3 +135,6 @@ Feel free to fork, experiment, and submit pull requests! For questions or issues
 
 **Author:** Tomer Roemy
 **Course:** SPL 225 – Concurrent Programming (Assignment 2)
+=======
+
+>>>>>>> master
